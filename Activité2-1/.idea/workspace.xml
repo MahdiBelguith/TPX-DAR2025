@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca1f9cab-7222-46b0-8a8f-f80ed01e15ed" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Activité1_2/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Activité1_2/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Activité1_2/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Activité1_2/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Activité1_2/bin/ClientSide/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Activité1_2/bin/ServerSide/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Activité1_2/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Activité1_2/src/ClientSide/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Activité1_2/src/ServerSide/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Activité1_2/src/module-info.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="34D7xObZgJk8zquNX0VLbY5g1EM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca1f9cab-7222-46b0-8a8f-f80ed01e15ed" name="Changes" comment="" />
+      <created>1760736538590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760736538590</updated>
+      <workItem from="1760736538592" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
